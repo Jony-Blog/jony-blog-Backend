@@ -1,4 +1,4 @@
-baseURL: "jonybepary.github.io/site_test"
+baseURL: "https://jony-blog.github.io/"
 title: Jonys blog
 paginate: 5
 theme: PaperMod
@@ -23,7 +23,7 @@ languages:
         homeInfoParams:
             Title: "Welcome \U0001F44B"
             Content: >
-                Here my thought, Story and Ideas.
+                Here's my thought, Story and Ideas.
         socialIcons:
             - name: github
               url: "https://github.com/JonyBepary"
@@ -62,7 +62,7 @@ languages:
         homeInfoParams:
             Title: "স্বাগত \U0001F44B"
             Content: >
-                মোর আগ্রহের আর্কাইভ
+                মোর আগ্রহের সংগ্রহশালা
         socialIcons:
             - name: github
               url: "https://github.com/JonyBepary"
@@ -72,7 +72,7 @@ languages:
               url: "index.xml"
 
         editPost:
-            URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+            URL: "https://github.com/Jony-Blog/jony-blog-Backend/tree/main/content"
             Text: "Suggest Changes" # edit text
             appendFilePath: true # to append file path to Edit link
 
@@ -148,7 +148,7 @@ params:
           url: "index.xml"
 
     editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+        URL: "https://github.com/Jony-Blog/jony-blog-Backend/tree/main/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
