@@ -52,6 +52,9 @@ languages:
                 - name: Categories
                   url: categories/
                   weight: 10
+                # - name: About me
+                #   url: aboutme/
+                #   weight: 10
 
     bn:
         languageName: "বাংলা"
@@ -104,7 +107,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Welcome to My Blog. Here you'll find my understanding of various programming idioms. Things like Data Structure, Algorithm Analysis, Math many other things you can just imagine."
-    author: Jony Bepary
+    author: "Jony Bepary"
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
