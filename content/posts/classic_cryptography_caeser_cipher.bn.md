@@ -16,9 +16,11 @@ aliases: ["migrate-to-linux"]
 ShowToc: false
 TocOpen: false
 cover:
-  image: ""
+  image: "./images/caesar_cipher_left_shift_of_3.png"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
+
+![](../images/caesar_cipher_left_shift_of_3.png)
 
 ক্রিপ্টোলজি বা খাস বাংলায় বললে "তথ্য গুপ্তিকরন বিদ্যা" যা সহজ ভাষায় বললে কোন ইনফরমেশনকে কিছু নির্দিষ্ট নিয়ম মেনে বিকৃত বা রুপান্তর করার প্রক্রিয়া। যা ইনফরমেশনকে পড়ার অনুপযোগী করে ফেলে। যাতে কেউ যেন অনুমতি ব্যাতিত আরেকজনের ওই তথ্য দেখতে না পারে। আবার ওই বিকৃত ইনফরমেশনকে কিছু নির্দিষ্ট নিয়মে অবিকৃতও করা যায়।
 
